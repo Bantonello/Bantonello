@@ -1,4 +1,4 @@
-✨Olá! Eu sou a Bru Costa seja muito bem vindo(a)!✨
+✨Olá! Eu sou a Bru Costa, seja muito bem vindo(a)!✨
 
 - 🔭 I  atualmente  não trabalho na  área da programação, mas é um sonho e estou me capacitando. ♥
 - 🌱 Estudante FullStack, Quality Assurance/BDD com Cucumber em JAVA e StarGameDev🎮
