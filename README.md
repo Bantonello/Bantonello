@@ -28,5 +28,4 @@
 <a href="https://discord.gg/Brub's#5596" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
   <a href = "mailto:bantonellodj@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
 
-  ![ Animação de cobra ](https://github.com/Bantonello/Bantonello/blob/output/github-contribution-grid-snake.svg)
-</div>
+ <\div>
