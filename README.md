@@ -1,6 +1,6 @@
 ✨Olá! Eu sou a Bru Costa, seja muito bem vindo(a)!✨
 
-- 🔭 I  atualmente  não trabalho na  área da programação, mas é um sonho e estou me capacitando. ♥
+- 👩‍💻Sou Analista de Software de Automação Comercial ♥
 - 🌱 Estudante FullStack, Quality Assurance/BDD com Cucumber em JAVA e StarGameDev🎮
 - 😄 Pronouns:  Ela/Dela.
 
