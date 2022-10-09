@@ -1,7 +1,7 @@
 ✨Olá! Eu sou a Bru Costa, seja muito bem vindo(a)!✨
 
 - 👩‍💻 Sou Analista de Software de Automação Comercial ♥
-- 🌱 Futura Analista de testes e Qualidade de Softtware (QA) | Desenvolvedora Front-end🎮
+- 🌱 Futura Analista de testes e Qualidade de Softtware (QA) | Desenvolvedora Front-end💻
 - 😄 Pronouns: Ela/Dela.
 
 <div align="center">
